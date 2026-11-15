@@ -1,0 +1,6 @@
+data/raw/
+data/raw_wiki/
+data/spiderman_popularity_clean.csv
+data/merged.csv
+.ipynb_checkpoints/
+.DS_Store
